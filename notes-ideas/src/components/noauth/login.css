@@ -1,0 +1,26 @@
+*{
+background-color: #31373E;
+}
+
+h1{
+    display: flex;
+    font-family: 'Alfa Slab One';
+    font-size: 120px;
+     color: #cbb8d8;
+    justify-content: center;
+}
+.oneView{
+    margin-top: -103px;
+}
+login{
+    display: flex;
+    flex-direction: center;
+    width: 800px;
+   
+}
+.btnGogle{
+display:flex;
+margin-left: 270px;
+width: 200px;
+margin-top: -125px;
+ }

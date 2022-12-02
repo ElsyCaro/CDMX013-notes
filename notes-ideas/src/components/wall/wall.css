@@ -1,0 +1,8 @@
+*{
+    background-color: #31373E;
+}
+.addnotes{
+    position: absolute;
+    display: flex;
+    width: 800px;
+}
